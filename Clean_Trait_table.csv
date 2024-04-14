@@ -1,0 +1,22 @@
+"","AccSpeciesName","Dispersal syndrome","Plant growth rate","SLA","CN_ratio_Mean","Invasion_status","Leaf_phenology","Leaf_type","Plant_resprouting","frost_tolerance","shade_tolerance","drought_tolerance"
+"1","acer_rubrum","wind","rapid",145.020680463779,27.8414830609231,"native","deciduous","broad-leaved","yes","FreezingExposed",3.44,1.84
+"2","acer_platanoides","wind","rapid",22.8026396869364,25.1272412573317,"non-native","deciduous","broad-leaved","yes","FreezingExposed",3.10625,1.90333333333333
+"3","acer_saccharum","wind","rapid",353.672774854687,20.3059973642634,"native","deciduous","broad-leaved","yes","FreezingExposed",4.76,2.25
+"4","ailanthus_altissima","wind","rapid",404.27670856,19.3111564773806,"non-native","deciduous","broad-leaved","yes","FreezingExposed",2.44,2.96
+"5","betula_nigra","wind","rapid",NA,21.9,"native","deciduous","broad-leaved","yes","FreezingExposed",1.45,1.53
+"6","carya_ovata","animal","rapid",48,25.2,"non-native","deciduous","broad-leaved","yes","FreezingExposed",3.4,3
+"7","euonymus_alatus",NA,NA,26.0572104489798,26.2025843298665,"non-native","deciduous","broad-leaved",NA,"FreezingExposed",4.33,2
+"8","fagus_grandifolia","animal","slow",414.518048544109,18.2299384414922,"native","deciduous","broad-leaved","yes","FreezingExposed",4.75,1.5
+"9","frangula_alnus","animal","rapid",185.832001167823,16.5446882017821,"non-native","deciduous","broad-leaved","yes","FreezingExposed",2.66,1.37
+"10","fraxinus_americana","wind","moderate",368.301697158949,17.020678108,"native","deciduous","broad-leaved","yes","FreezingExposed",2.46,2.38
+"11","fraxinus_pennsylvanica","wind","moderate",138.862475247525,NA,"native","deciduous","broad-leaved","yes","FreezingExposed",3.11,3.85
+"12","juniperus_virginiana","animal","slow",15.0610095866108,30.5,"native","evergreen","needle-leaved","yes","FreezingExposed",1.39,4.825
+"13","lindera_benzoin","animal","slow",NA,NA,"native","deciduous","broad-leaved","yes","FreezingExposed",3,2
+"14","liriodendron_tulipifera","wind","rapid",140.7962812492,24.1943784047059,"native","deciduous","broad-leaved","yes","FreezingExposed",2.07,2.6
+"15","nyssa_sylvatica","animal","moderate",163.571775752047,26.91891892,"native","deciduous","broad-leaved","yes","FreezingExposed",2.76,1.5
+"16","prunus_serotina","animal","rapid",66.4562492435103,18.1356043102318,"native","deciduous","broad-leaved","yes","FreezingExposed",2.46,3.02
+"17","rhamnus_cathartica","animal","rapid",71.7178852944378,18.6115868673824,"non-native","deciduous","broad-leaved",NA,"FreezingExposed",1.93,3.46
+"18","sassafras_albidum","animal","slow",156.965707348132,18.457410955,"native","deciduous","broad-leaved","yes","FreezingExposed",1.68,5
+"19","symplocos_paniculata","animal",NA,25.7199796651969,21.8059350393537,"non-native","deciduous","broad-leaved",NA,"FreezingExposed",3.67,3
+"20","ulmus_rubra","wind","rapid",77,NA,"native","deciduous","broad-leaved","yes","FreezingExposed",3.31,3
+"21","viburnum_prunifolium","animal","slow",NA,29.983938823,"native","deciduous","broad-leaved","yes","FreezingExposed",NA,NA
